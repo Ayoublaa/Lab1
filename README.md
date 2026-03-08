@@ -16,7 +16,11 @@ HelloToast est une application Android simple développée dans le cadre du **La
 
 ## Démonstration
 
-> 📹 Vidéo de démonstration : [Lab1.mp4](./Lab1.mp4)
+> 📹 Vidéo de démonstration : 
+
+
+https://github.com/user-attachments/assets/e17a099c-c267-4e48-b5a0-8504dbff004e
+
 
 ---
 
